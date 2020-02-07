@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 mAKING CHANGES IN BRANCH FILE
+||||||| merged common ancestors
+int x = 5;
+=======
+int x = 10;
+>>>>>>> experiment
